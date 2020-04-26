@@ -9,8 +9,8 @@ BRAKE = 3
 
 FREQUENCY = 960
 
-BIN1 = 13
-BIN2 = 18
+BIN1 = 18
+BIN2 = 13
 
 pi = pigpio.pi()
 pi.set_mode(BIN1, pigpio.OUTPUT)
