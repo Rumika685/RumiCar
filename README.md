@@ -1,4 +1,16 @@
 # RumiCar
+
+こちはのリポジトリはアーカイブ致します。以後はRumiCar-groupをorganizationとしたRumiCarリポジトリをご利用ください。
+https://github.com/RumiCar-group/RumiCar
+
+
+
+
+
+
+
+
+
 2020年4月25日(土)に開催した「RumiCarハンズオン中継！自動運転アルゴリズムを楽しく手軽に体感しよう！#2 」で使用するExerciseです。
 https://algyan.connpass.com/event/169516/
 Exercise-A2.3とExercise-A3.1は上級編なので、イベント中には使いませんが挑戦してみてください。
