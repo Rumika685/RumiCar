@@ -1,7 +1,6 @@
 # RumiCar
 
-#
-こちらのリポジトリはアーカイブ致します。以後はRumiCar-groupをorganizationとしたRumiCarリポジトリをご利用ください。
+#　こちらのリポジトリはアーカイブ致します。以後はRumiCar-groupをorganizationとしたRumiCarリポジトリをご利用ください。
 https://github.com/RumiCar-group/RumiCar
 
 2020年4月25日(土)に開催した「RumiCarハンズオン中継！自動運転アルゴリズムを楽しく手軽に体感しよう！#2 」で使用するExerciseです。
