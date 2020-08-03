@@ -1,4 +1,4 @@
-# こちらのリポジトリはアーカイブ致します。以後はRumiCar-groupをorganizationとしたRumiCarリポジトリをご利用ください。
+# こちらのリポジトリはアーカイブ致しました。以後はRumiCar-groupをorganizationとしたRumiCarリポジトリ(下記)をご利用ください。
 
 https://github.com/RumiCar-group/RumiCar
 
